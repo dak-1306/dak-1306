@@ -3,15 +3,23 @@
 <!-- ========================= -->
 
 <h1 align="center">
-  <Tran Hai Dang>
+  <FULL_NAME>
 </h1>
 
 <h3 align="center">
-  <Developer frontend> · <freshter>
+  <Developer Role> · <Level>
 </h3>
 
 <p align="center">
-  <i>Building clean, maintainable, and scalable software with a strong engineering mindset.</i>
+  <i>Clean code today — scalable systems tomorrow.</i>
+</p>
+
+<p align="center">
+  <!-- subtle typing effect -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=500&lines=Building+maintainable+software;Focused+on+clean+architecture;Product-minded+developer"
+    alt="typing effect"
+  />
 </p>
 
 <p align="center">
@@ -23,15 +31,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
 </p>
 
----
+<hr />
 
 ## 👋 About Me
 
-- <Developer Role> with a strong focus on clean code and long-term maintainability  
-- Solid foundation in core programming concepts and modern development workflows  
-- Experience working with real-world projects and product-oriented thinking  
-- Comfortable reading documentation and communicating in <Ngôn ngữ>  
-- Always improving through best practices, refactoring, and code reviews  
+- <Developer Role> with strong emphasis on code quality and readability  
+- Prefer predictable systems, clear logic, and well-defined responsibilities  
+- Experience building real-world features, not just demos  
+- Comfortable working with <Ngôn ngữ> in technical contexts  
+- Continuous learner with long-term engineering mindset  
 
 ---
 
@@ -45,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" />
 </p>
 
-### Secondary / Supporting
+### Secondary
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" />
@@ -64,8 +72,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=dark&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
@@ -73,17 +87,17 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Project Name 1
-**Description:** Short description of the problem and solution  
+**Description:** Real-world feature-driven application  
 **Tech:** React, TypeScript, Node.js  
 🔗 https://github.com/<USERNAME>/project-1
 
 ### 🔹 Project Name 2
-**Description:** Short description focusing on architecture or logic  
+**Description:** Backend-focused project with clear architecture  
 **Tech:** Express, MongoDB, REST API  
 🔗 https://github.com/<USERNAME>/project-2
 
 ### 🔹 Project Name 3
-**Description:** Practical project solving real-world use case  
+**Description:** UI/UX-oriented product with clean component structure  
 **Tech:** React, TailwindCSS  
 🔗 https://github.com/<USERNAME>/project-3
 
@@ -93,10 +107,10 @@
 
 - Clean Architecture  
 - Separation of Concerns  
-- MVC / MVVM (where applicable)  
+- MVC / MVVM  
 - Reusable & scalable component design  
-- Basic unit testing / integration testing  
-- Git flow & meaningful commit messages  
+- Basic testing mindset (unit / integration)  
+- Git flow, small commits, clear messages  
 
 ---
 
@@ -108,4 +122,8 @@
 
 ---
 
-<sub>⭐ This profile is maintained with a focus on clarity, correctness, and professional engineering standards.</sub>
+<p align="center">
+  <sub>
+    Focused on building reliable software, not just shipping code.
+  </sub>
+</p>
