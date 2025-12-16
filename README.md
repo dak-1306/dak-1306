@@ -3,32 +3,32 @@
 <!-- ========================= -->
 
 <h1 align="center">
-  <FULL_NAME>
+  <span style="
+    background: linear-gradient(90deg, #58A6FF, #8B5CF6, #EC4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+  ">
+    Trần Hải Đăng
+  </span>
 </h1>
 
 <h3 align="center">
-  <Developer Role> · <Level>
+  <span style="
+    background: linear-gradient(90deg, #A5B4FC, #60A5FA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+  ">
+    Web Developer
+  </span>
 </h3>
 
 <p align="center">
-  <i>Clean code today — scalable systems tomorrow.</i>
-</p>
-
-<p align="center">
-  <!-- subtle typing effect -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=500&lines=Building+maintainable+software;Focused+on+clean+architecture;Product-minded+developer"
-    alt="typing effect"
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=2&section=header"
+    width="60%"
   />
-</p>
-
-<p align="center">
-  <!-- Devicon icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
 </p>
 
 <hr />
