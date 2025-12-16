@@ -1,60 +1,111 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=150&section=header"/>
+<!-- ========================= -->
+<!-- GitHub Profile README.md -->
+<!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm DAK</h1>
+<h1 align="center">
+  <Tran Hai Dang>
+</h1>
+
+<h3 align="center">
+  <Developer frontend> · <freshter>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Frontend+Developer;React+Learner;Student+Web+Developer" />
+  <i>Building clean, maintainable, and scalable software with a strong engineering mindset.</i>
+</p>
+
+<p align="center">
+  <!-- Devicon icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 IT Student – Web Programming
-- 💡 Focus: **React, UI, Clean Code**
-- 🚀 Goal: **Frontend Intern / Fresher**
+## 👋 About Me
+
+- <Developer Role> with a strong focus on clean code and long-term maintainability  
+- Solid foundation in core programming concepts and modern development workflows  
+- Experience working with real-world projects and product-oriented thinking  
+- Comfortable reading documentation and communicating in <Ngôn ngữ>  
+- Always improving through best practices, refactoring, and code reviews  
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+### Main Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" />
 </p>
 
----
+### Secondary / Supporting
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" />
+</p>
 
-## 🚀 Projects
-### 💰 Expense Management App
-- React + Tailwind
-- CRUD, Chart, LocalStorage
-- Context API
-
-🔗 Repo: https://github.com/USERNAME/expense-app
-
-### 📦 Product Management Mini Project
-- React
-- CRUD Product
-- Component-based
-
-🔗 Repo: https://github.com/USERNAME/product-management
+### Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 Project Name 1
+**Description:** Short description of the problem and solution  
+**Tech:** React, TypeScript, Node.js  
+🔗 https://github.com/<USERNAME>/project-1
+
+### 🔹 Project Name 2
+**Description:** Short description focusing on architecture or logic  
+**Tech:** Express, MongoDB, REST API  
+🔗 https://github.com/<USERNAME>/project-2
+
+### 🔹 Project Name 3
+**Description:** Practical project solving real-world use case  
+**Tech:** React, TailwindCSS  
+🔗 https://github.com/<USERNAME>/project-3
+
+---
+
+## 🧱 Architecture & Practices
+
+- Clean Architecture  
+- Separation of Concerns  
+- MVC / MVVM (where applicable)  
+- Reusable & scalable component design  
+- Basic unit testing / integration testing  
+- Git flow & meaningful commit messages  
+
+---
+
 ## 📫 Contact
-- 📧 Email: thd13062005@gmail.com
-- 💼 LinkedIn: LINK
+
+- 📧 Email: <Email>  
+- 💼 LinkedIn: <LinkedIn URL>  
+- 🌐 Portfolio: <Portfolio URL>  
+
+---
+
+<sub>⭐ This profile is maintained with a focus on clarity, correctness, and professional engineering standards.</sub>
