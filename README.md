@@ -1,113 +1,92 @@
 <!-- ========================= -->
+
 <!-- GitHub Profile README.md -->
-<!-- NEON VERSION HEADER      -->
+
+<!-- CLEAN · MODERN · JUNIOR  -->
+
+<!-- ========================= -->
+
+<!-- ========================= -->
+
+<!-- GitHub Profile README.md -->
+
+<!-- CLEAN · MODERN · JUNIOR  -->
+
 <!-- ========================= -->
 
 <h1 align="center">
-  <span style="
-    font-size: 42px;
-    font-weight: 900;
-    letter-spacing: 1px;
-    color: #00E5FF;
-    text-shadow:
-      0 0 5px #00E5FF,
-      0 0 10px #00E5FF,
-      0 0 20px #0FF,
-      0 0 40px #0FF;
-  ">
+  <span style="font-size:40px;font-weight:800;color:#00E5FF;text-shadow:0 0 6px #00E5FF;">
     Trần Hải Đăng
   </span>
 </h1>
 
 <h3 align="center">
-  <span style="
-    font-size: 20px;
-    font-weight: 600;
-    color: #7CFFB2;
-    text-shadow:
-      0 0 4px #7CFFB2,
-      0 0 8px #2BFF88;
-  ">
-    Web Developer
+  <span style="color:#7CFFB2;font-weight:600;">
+    Junior Web Developer
   </span>
 </h3>
 
 <p align="center">
-  <span style="
-    font-size: 14px;
-    color: #A1A1AA;
-    text-shadow: 0 0 6px rgba(0,229,255,0.4);
-  ">
-    Clean code today — scalable systems tomorrow.
-  </span>
+  Clean code • Clear logic • Continuous learning
 </p>
 
 <p align="center">
-  <!-- neon divider -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7CFFB2,100:8B5CF6&height=3"
-    width="70%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7CFFB2&height=3" width="60%" />
 </p>
 
 <p align="center">
-  <!-- subtle neon typing -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=520&lines=Clean+Architecture+Enthusiast;Frontend-focused+Web+Developer;Build+for+scale+and+clarity"
-    alt="typing neon"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=520&lines=Junior+Web+Developer;React+Learner;Build+clean+and+understandable+code"
+    alt="typing"
   />
 </p>
 
-<p align="center">
-  <!-- Devicon icons with neon vibe -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
-</p>
-
-<p align="center">
-  <sub style="color:#6B7280">
-    ⚡ Neon style — modern, bold, still readable for HR & Tech Leads
-  </sub>
-</p>
-
-
-<hr />
+---
 
 ## 👋 About Me
 
-- <Developer Role> with strong emphasis on code quality and readability  
-- Prefer predictable systems, clear logic, and well-defined responsibilities  
-- Experience building real-world features, not just demos  
-- Comfortable working with <Ngôn ngữ> in technical contexts  
-- Continuous learner with long-term engineering mindset  
+* Sinh viên CNTT, định hướng **Frontend / Web Developer**
+* Nền tảng tốt về **HTML, CSS, JavaScript, React**
+* Ưu tiên code rõ ràng, dễ đọc, dễ bảo trì
+* Có hiểu biết cơ bản về Backend & Database
+* Luôn học hỏi để nâng cao tư duy kỹ thuật và kiến trúc code
 
 ---
 
 ## 🛠 Tech Stack
 
-### Main Stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" />
-</p>
+### Frontend
 
-### Secondary
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" />
 </p>
 
+### Backend & Database (Basic)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" />
+</p>
+
+### Other
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" />
+</p>
+
 ### Tools
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" />
 </p>
 
 ---
@@ -116,7 +95,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=dark&hide_border=true"
     height="160"
   />
   <img
@@ -129,44 +108,46 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Project Name 1
-**Description:** Real-world feature-driven application  
-**Tech:** React, TypeScript, Node.js  
-🔗 https://github.com/<USERNAME>/project-1
+### 🔹 Project 1
 
-### 🔹 Project Name 2
-**Description:** Backend-focused project with clear architecture  
-**Tech:** Express, MongoDB, REST API  
-🔗 https://github.com/<USERNAME>/project-2
+**Description:** Mini project luyện tập React và quản lý state
+**Tech:** React, JavaScript, TailwindCSS
+🔗 [https://github.com/](https://github.com/)<USERNAME>/project-1
 
-### 🔹 Project Name 3
-**Description:** UI/UX-oriented product with clean component structure  
-**Tech:** React, TailwindCSS  
-🔗 https://github.com/<USERNAME>/project-3
+### 🔹 Project 2
+
+**Description:** Ứng dụng CRUD cơ bản, kết nối database
+**Tech:** Node.js, MySQL / MongoDB
+🔗 [https://github.com/](https://github.com/)<USERNAME>/project-2
+
+### 🔹 Project 3
+
+**Description:** Ứng dụng Flutter cơ bản, làm quen UI & state
+**Tech:** Dart, Flutter
+🔗 [https://github.com/](https://github.com/)<USERNAME>/project-3
 
 ---
 
-## 🧱 Architecture & Practices
+## 🧠 Practices & Mindset
 
-- Clean Architecture  
-- Separation of Concerns  
-- MVC / MVVM  
-- Reusable & scalable component design  
-- Basic testing mindset (unit / integration)  
-- Git flow, small commits, clear messages  
+* Tách component rõ ràng
+* Hiểu luồng dữ liệu (props, state)
+* Code dễ đọc hơn code phức tạp
+* Commit nhỏ, message rõ ràng
+* Ưu tiên học chắc nền tảng
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: <Email>  
-- 💼 LinkedIn: <LinkedIn URL>  
-- 🌐 Portfolio: <Portfolio URL>  
+* 📧 Email: **[thd13062005@gmail.com](mailto:thd13062005@gmail.com)**
+* 💼 LinkedIn: *(đang cập nhật)*
+* 🌐 Portfolio: *(đang xây dựng)*
 
 ---
 
 <p align="center">
   <sub>
-    Focused on building reliable software, not just shipping code.
+    Junior today — solid developer tomorrow.
   </sub>
 </p>
