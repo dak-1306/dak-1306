@@ -36,7 +36,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=520&lines=Junior+Web+Developer;React+Learner;Build+clean+and+understandable+code"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=520&lines=Web+Developer;React+Learner;Build+clean+and+understandable+code"
     alt="typing"
   />
 </p>
@@ -112,9 +112,11 @@
 ### 🔹 Project 1
 
 **Description:** 
-Mini project luyện tập React và ứng dụng firebase 
+Mini project luyện tập React và ứng dụng firebase
+
 **Tech:** 
 React, JavaScript, TailwindCSS, firebase
+
 🔗**Link:**
 [Spendly Web](https://github.com/dak-1306/spendly-web)
 
@@ -122,8 +124,10 @@ React, JavaScript, TailwindCSS, firebase
 
 **Description:** 
 Ứng dụng CRUD cơ bản, kết nối database, thử sức với express
+
 **Tech:** 
 React, JavaScript, TailwindCss, express, mongoDb
+
 🔗**Link:**
 [Mini shop](https://github.com/dak-1306/mini-shop)
 
@@ -131,8 +135,10 @@ React, JavaScript, TailwindCss, express, mongoDb
 
 **Description:** 
 Ứng dụng Flutter cơ bản, làm quen UI & state (bài nhóm)
+
 **Tech:** 
 Dart, Flutter, firebase
+
 🔗**Link:**
 [EnGo App](https://github.com/Nhom-LTTBDD/EnGoApp)
 
