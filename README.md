@@ -22,12 +22,12 @@
 
 <h3 align="center">
   <span style="color:#7CFFB2;font-weight:600;">
-    Junior Web Developer
+    Web Developer
   </span>
 </h3>
 
 <p align="center">
-  Clean code • Clear logic • Continuous learning
+ Clean code • Clear logic • AI-assisted productivity
 </p>
 
 <p align="center">
@@ -49,6 +49,7 @@
 * Nền tảng tốt về **HTML, CSS, JavaScript, React**
 * Ưu tiên code rõ ràng, dễ đọc, dễ bảo trì
 * Có hiểu biết cơ bản về Backend & Database
+* Biết cách sử dụng AI hỗ trợ quá trình code
 * Luôn học hỏi để nâng cao tư duy kỹ thuật và kiến trúc code
 
 ---
@@ -95,11 +96,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=dak-1306&show_icons=true&theme=dark&hide_border=true"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dak-1306&layout=compact&theme=dark&hide_border=true"
     height="160"
   />
 </p>
@@ -110,29 +111,29 @@
 
 ### 🔹 Project 1
 
-**Description:** Mini project luyện tập React và quản lý state
-**Tech:** React, JavaScript, TailwindCSS
-🔗 [https://github.com/](https://github.com/)<USERNAME>/project-1
+**Description:** Mini project luyện tập React và ứng dụng firebase 
+**Tech:** React, JavaScript, TailwindCSS, firebase
+🔗[Spendly Web](https://github.com/dak-1306/spendly-web)
 
 ### 🔹 Project 2
 
-**Description:** Ứng dụng CRUD cơ bản, kết nối database
-**Tech:** Node.js, MySQL / MongoDB
-🔗 [https://github.com/](https://github.com/)<USERNAME>/project-2
+**Description:** Ứng dụng CRUD cơ bản, kết nối database, thử sức với express
+**Tech:** React, JavaScript, TailwindCss, express, mongoDb
+🔗 [Mini shop](https://github.com/dak-1306/mini-shop)
 
 ### 🔹 Project 3
 
-**Description:** Ứng dụng Flutter cơ bản, làm quen UI & state
-**Tech:** Dart, Flutter
-🔗 [https://github.com/](https://github.com/)<USERNAME>/project-3
+**Description:** Ứng dụng Flutter cơ bản, làm quen UI & state (bài nhóm)
+**Tech:** Dart, Flutter, firebase
+🔗 [EnGo App](https://github.com/Nhom-LTTBDD/EnGoApp)
 
 ---
 
 ## 🧠 Practices & Mindset
 
-* Tách component rõ ràng
+* Clean, clear code
+* Sử dụng AI hỗ trợ tăng hiệu suất
 * Hiểu luồng dữ liệu (props, state)
-* Code dễ đọc hơn code phức tạp
 * Commit nhỏ, message rõ ràng
 * Ưu tiên học chắc nền tảng
 
@@ -148,6 +149,6 @@
 
 <p align="center">
   <sub>
-    Junior today — solid developer tomorrow.
+    Building solid foundations for tomorrow.
   </sub>
 </p>
