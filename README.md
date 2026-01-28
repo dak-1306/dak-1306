@@ -85,7 +85,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-mark.svg" width="36" />
+  <img src="https://cdn.simpleicons.org/github/white" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" />
   <img src="https://cdn.simpleicons.org/diagramsdotnet/white" width="32" />
