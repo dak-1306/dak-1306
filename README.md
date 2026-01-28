@@ -111,21 +111,30 @@
 
 ### 🔹 Project 1
 
-**Description:** Mini project luyện tập React và ứng dụng firebase 
-**Tech:** React, JavaScript, TailwindCSS, firebase
-🔗[Spendly Web](https://github.com/dak-1306/spendly-web)
+**Description:** 
+Mini project luyện tập React và ứng dụng firebase 
+**Tech:** 
+React, JavaScript, TailwindCSS, firebase
+🔗**Link:**
+[Spendly Web](https://github.com/dak-1306/spendly-web)
 
 ### 🔹 Project 2
 
-**Description:** Ứng dụng CRUD cơ bản, kết nối database, thử sức với express
-**Tech:** React, JavaScript, TailwindCss, express, mongoDb
-🔗 [Mini shop](https://github.com/dak-1306/mini-shop)
+**Description:** 
+Ứng dụng CRUD cơ bản, kết nối database, thử sức với express
+**Tech:** 
+React, JavaScript, TailwindCss, express, mongoDb
+🔗**Link:**
+[Mini shop](https://github.com/dak-1306/mini-shop)
 
 ### 🔹 Project 3
 
-**Description:** Ứng dụng Flutter cơ bản, làm quen UI & state (bài nhóm)
-**Tech:** Dart, Flutter, firebase
-🔗 [EnGo App](https://github.com/Nhom-LTTBDD/EnGoApp)
+**Description:** 
+Ứng dụng Flutter cơ bản, làm quen UI & state (bài nhóm)
+**Tech:** 
+Dart, Flutter, firebase
+🔗**Link:**
+[EnGo App](https://github.com/Nhom-LTTBDD/EnGoApp)
 
 ---
 
