@@ -97,14 +97,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dak-1306&show_icons=true&theme=dark&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dak-1306&layout=compact&theme=dark&hide_border=true"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dak-1306&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dak-1306&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
 
 ---
