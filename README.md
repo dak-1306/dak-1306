@@ -106,6 +106,17 @@
 ### 🔹 Project 1
 
 **Description:** 
+Web React, express và sử dụng mongodb cơ bản
+
+**Tech:** 
+React, Express, MongoDb
+
+🔗**Link:**
+[Team Task Manager](https://github.com/dak-1306/teamTaskManager)
+
+### 🔹 Project 2
+
+**Description:** 
 Mini project luyện tập React và ứng dụng firebase
 
 **Tech:** 
@@ -114,7 +125,7 @@ React, JavaScript, TailwindCSS, firebase
 🔗**Link:**
 [Spendly Web](https://github.com/dak-1306/spendly-web)
 
-### 🔹 Project 2
+### 🔹 Project 3
 
 **Description:** 
 Ứng dụng CRUD cơ bản, kết nối database, thử sức với express
@@ -125,16 +136,6 @@ React, JavaScript, TailwindCss, express, mongoDb
 🔗**Link:**
 [Mini shop](https://github.com/dak-1306/mini-shop)
 
-### 🔹 Project 3
-
-**Description:** 
-Ứng dụng Flutter cơ bản, làm quen UI & state (bài nhóm)
-
-**Tech:** 
-Dart, Flutter, firebase
-
-🔗**Link:**
-[EnGo App](https://github.com/Nhom-LTTBDD/EnGoApp)
 
 ---
 
