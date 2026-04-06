@@ -118,18 +118,6 @@ React, JavaScript, TailwindCSS, firebase
 🔗**Link:**
 [Spendly Web](https://github.com/dak-1306/spendly-web)
 
-### 🔹 Project 3
-
-**Description:** 
-Ứng dụng CRUD cơ bản, kết nối database, thử sức với express
-
-**Tech:** 
-React, JavaScript, TailwindCss, express, mongoDb
-
-🔗**Link:**
-[Mini shop](https://github.com/dak-1306/mini-shop)
-
-
 ---
 
 ## 🧠 Practices & Mindset
