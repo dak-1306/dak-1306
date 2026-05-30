@@ -96,27 +96,39 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Project 1
+### 🔹 TeamTaskManager
 
 **Description:** 
-Web React, express và sử dụng mongodb cơ bản
-
+- Frontend: React, TypeScript, tailwindCss, shadcn ui, React Query, Zustand, react-hook-form, axios
+- Backend: Express
+- Database: MongoDb
 **Tech:** 
 React, Express, MongoDb
 
 🔗**Link:**
 [Team Task Manager](https://github.com/dak-1306/teamTaskManager)
 
-### 🔹 Project 2
+### 🔹 Portfolio
 
 **Description:** 
-Mini project luyện tập React và ứng dụng firebase
+Portfolio react, thể hiện khả năng frontend
 
 **Tech:** 
-React, JavaScript, TailwindCSS, firebase
+React, TypeScript, tailwindCss, shadcn ui, frame-motion
 
 🔗**Link:**
-[Spendly Web](https://github.com/dak-1306/spendly-web)
+[Portfolio](https://github.com/dak-1306/portfolio)
+
+### 🔹 BikeVn
+
+**Description:** 
+Đây là bài nhóm, tôi đảm nhiệm vị trí leader và frontend
+
+**Tech:** 
+- Frontend: React, TypeScript, tailwindCss, shadcn ui, React Query, Zustand, react-hook-form, axios
+
+🔗**Link:**
+[BikeVn](https://github.com/DATTCNPM/BikeVN)
 
 ---
 
@@ -134,7 +146,7 @@ React, JavaScript, TailwindCSS, firebase
 
 * 📧 Email: **[thd13062005@gmail.com](mailto:thd13062005@gmail.com)**
 * 💼 LinkedIn: *(đang cập nhật)*
-* 🌐 Portfolio: *(đang xây dựng)*
+* 🌐 Portfolio: [Portfolio](https://github.com/dak-1306/portfolio)
 
 ---
 
