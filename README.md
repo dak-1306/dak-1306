@@ -107,8 +107,9 @@ React, Express, MongoDb
 
 🔗**Link:**
 [Team Task Manager](https://github.com/dak-1306/teamTaskManager)
+
 **Demo:**
-[TeamTaskManager](team-task-manager-three.vercel.app)
+[TeamTaskManager](https://team-task-manager-three.vercel.app)
 
 ### 🔹 Portfolio
 
@@ -121,7 +122,7 @@ React, TypeScript, tailwindCss, shadcn ui, frame-motion
 🔗**Link:**
 [Portfolio](https://github.com/dak-1306/portfolio)
 **Demo:**
-[Portfolio](portfolio-chi-six-dis71bhv3s.vercel.app)
+[Portfolio](https://portfolio-chi-six-dis71bhv3s.vercel.app)
 
 ### 🔹 BikeVn
 
@@ -150,7 +151,7 @@ React, TypeScript, tailwindCss, shadcn ui, frame-motion
 
 * 📧 Email: **[thd13062005@gmail.com](mailto:thd13062005@gmail.com)**
 * 💼 LinkedIn: *(đang cập nhật)*
-* 🌐 Portfolio: [Portfolio](portfolio-chi-six-dis71bhv3s.vercel.app)
+* 🌐 Portfolio: [Portfolio](https://portfolio-chi-six-dis71bhv3s.vercel.app)
 
 ---
 
