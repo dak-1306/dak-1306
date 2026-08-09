@@ -96,45 +96,60 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 SupportFlow AI | Full-Stack Developer (Personal) 
+
+**Description:** 
+Developed a comprehensive Customer Support Monorepo platform featuring a RAG-based AI chatbot, real-time human
+handoff, and an admin dashboard.
+• Implemented Retrieval-Augmented Generation (RAG) using Google Gemini and Qdrant vector database to provide
+accurate automated responses based on uploaded knowledge base documents.
+• Built real-time live chat functionality using Socket.io for seamless transitions from AI to human agents, and created a
+lightweight embeddable widget compatible with various web platforms.
+
+**Tech:** 
+React, Tailwind CSS, Shadcn UI, Zustand, Node.js, Socket.io, Google Gemini, Qdrant, Turborepo
+
+🔗**Link:**
+[SupportFlow AI](https://github.com/dak-1306/supportflow-ai)
+**Demo:**
+[Admin](https://supportflow-ai-admin.vercel.app)
+
+### 🔹 BikeVN | Frontend Developer (Team of 3) 
+
+**Description:** 
+Solely developed the complete frontend architecture and admin dashboard of a full-stack motorcycle rental platform
+featuring authentication, vehicle search, booking, reviews, and real-time chat.
+• Built a scalable, responsive, and maintainable user interface following a feature-first architecture with consistent UI
+patterns.
+• Integrated REST APIs using TanStack Query for efficient server-state management, caching, and data fetching while
+managing global client state with Zustand.
+
+**Tech:** 
+- React, TypeScript, TanStack Query, Zustand, React Router, Tailwind CSS, Shadcn UI, Zod, Spring
+Boot.
+
+🔗**Link:**
+[BikeVn](https://github.com/DATTCNPM/BikeVN)
+**Demo:**
+[client](https://bike-vn.vercel.app)
+[Admin](https://bike-vn-admin.vercel.app)
+
 ### 🔹 TeamTaskManager
 
 **Description:** 
-- Frontend: React, TypeScript, tailwindCss, shadcn ui, React Query, Zustand, react-hook-form, axios
-- Backend: Express
-- Database: MongoDb
+Developed a full-stack project and task management platform with JWT-based authentication, project collaboration, and
+real-time task tracking features.
+• Built scalable frontend architecture for efficient global state management, asynchronous data fetching, and robust schema
+validation using Zod.
+• Designed interactive dashboards and data analytics view using Tailwind CSS, Shadcn UI, Framer Motion, and Recharts.
 **Tech:** 
-React, Express, MongoDb
+React, TypeScript, TanStack Query, Zustand, React Hook Form, Zod, Express.js, MongoDB, Recharts
 
 🔗**Link:**
 [Team Task Manager](https://github.com/dak-1306/teamTaskManager)
 
 **Demo:**
 [TeamTaskManager](https://team-task-manager-three.vercel.app)
-
-### 🔹 Portfolio
-
-**Description:** 
-Portfolio react, thể hiện khả năng frontend
-
-**Tech:** 
-React, TypeScript, tailwindCss, shadcn ui, frame-motion
-
-🔗**Link:**
-[Portfolio](https://github.com/dak-1306/portfolio)
-**Demo:**
-[Portfolio](https://portfolio-chi-six-dis71bhv3s.vercel.app)
-
-### 🔹 BikeVn
-
-**Description:** 
-Đây là bài nhóm, tôi đảm nhiệm vị trí leader và frontend
-
-**Tech:** 
-- Frontend: React, TypeScript, tailwindCss, shadcn ui, React Query, Zustand, react-hook-form, axios
-
-🔗**Link:**
-[BikeVn](https://github.com/DATTCNPM/BikeVN)
-
 ---
 
 ## 🧠 Practices & Mindset
