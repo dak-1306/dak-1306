@@ -1,21 +1,10 @@
 <!-- ========================= -->
-
-<!-- GitHub Profile README.md -->
-
-<!-- CLEAN · MODERN · JUNIOR  -->
-
-<!-- ========================= -->
-
-<!-- ========================= -->
-
-<!-- GitHub Profile README.md -->
-
-<!-- CLEAN · MODERN · JUNIOR  -->
-
+<!-- GitHub Profile README.md  -->
+<!-- CLEAN · MODERN · JUNIOR   -->
 <!-- ========================= -->
 
 <h1 align="center">
-  <span style="font-size:40px;font-weight:800;color:#00E5FF;text-shadow:0 0 6px #00E5FF;">
+  <span style="font-size:40px;font-weight:800;color:#00E5FF;">
     Trần Hải Đăng
   </span>
 </h1>
@@ -27,11 +16,11 @@
 </h3>
 
 <p align="center">
- Clean code • Clear logic • AI-assisted productivity
+  Clean code • Clear logic • AI-assisted productivity
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7CFFB2&height=3" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7CFFB2&height=3" width="60%" alt="separator" />
 </p>
 
 <p align="center">
@@ -43,130 +32,116 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me & Mindset
 
-* Sinh viên CNTT, định hướng **Frontend / Web Developer**
-* Nền tảng tốt về **HTML, CSS, JavaScript, React**
-* Ưu tiên code rõ ràng, dễ đọc, dễ bảo trì
-* Có hiểu biết cơ bản về Backend & Database
-* Biết cách sử dụng AI hỗ trợ quá trình code
-* Luôn học hỏi để nâng cao tư duy kỹ thuật và kiến trúc code
+* 🎓 **IT Student** with a strong focus on **Frontend / Web Development**.
+* 💻 Solid foundation in **HTML, CSS, JavaScript, and React**.
+* 🏗️ Prioritize **clean, readable, and maintainable code** over complex workarounds.
+* 🔄 Deep understanding of data flow (props, state) and strong emphasis on core fundamentals.
+* ⚙️ Basic understanding of Backend & Databases to collaborate effectively across the stack.
+* 🤖 Leverage AI tools to boost productivity and enhance code architecture.
+* 📝 Advocate for small, atomic commits with clear, descriptive messages.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,firebase,figma&perline=13" alt="Tech Stack" />
+  </a>
 </p>
-
-### Backend & Database (Basic)
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
-  <img src="https://skillicons.dev/icons?i=express" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
-  <img src="https://cdn.simpleicons.org/github/white" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" />
-  <img src="https://cdn.simpleicons.org/diagramsdotnet/white" width="32" />
-</p>
-
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dak-1306&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dak-1306&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dak-1306&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dak-1306&layout=compact&theme=tokyonight)
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 SupportFlow AI | Full-Stack Developer (Personal) 
+<table border="0" width="100%">
+  <!-- SupportFlow AI -->
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://supportflow-ai-admin.vercel.app">
+        <img src="https://placehold.co/600x400/1e1e2e/00E5FF?text=SupportFlow+AI" alt="SupportFlow AI Demo" width="100%" style="border-radius: 8px;">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>🔹 SupportFlow AI (Personal)</h3>
+      <p><strong>Role:</strong> Full-Stack Developer</p>
+      <p>A comprehensive Customer Support platform featuring a RAG-based AI chatbot, real-time human handoff, and an admin dashboard.</p>
+      <ul>
+        <li>Implemented RAG using <strong>Google Gemini</strong> and <strong>Qdrant</strong> vector DB.</li>
+        <li>Built real-time live chat functionality using <strong>Socket.io</strong>.</li>
+      </ul>
+      <p><strong>Tech:</strong> React, Tailwind, Shadcn UI, Zustand, Node.js, Socket.io, Gemini, Qdrant, Turborepo</p>
+      <a href="https://github.com/dak-1306/supportflow-ai">🔗 GitHub</a> | <a href="https://supportflow-ai-admin.vercel.app">🌐 Live Demo</a>
+    </td>
+  </tr>
+  
+  <!-- BikeVN -->
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://bike-vn.vercel.app">
+        <img src="https://placehold.co/600x400/1e1e2e/7CFFB2?text=BikeVN" alt="BikeVN Demo" width="100%" style="border-radius: 8px;">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>🔹 BikeVN (Team of 3)</h3>
+      <p><strong>Role:</strong> Frontend Developer</p>
+      <p>A full-stack motorcycle rental platform featuring authentication, vehicle search, booking, reviews, and real-time chat.</p>
+      <ul>
+        <li>Developed complete frontend architecture and admin dashboard.</li>
+        <li>Integrated REST APIs with <strong>TanStack Query</strong> and managed global state with <strong>Zustand</strong>.</li>
+      </ul>
+      <p><strong>Tech:</strong> React, TypeScript, TanStack Query, Zustand, Tailwind, Shadcn UI, Zod, Spring Boot</p>
+      <a href="https://github.com/DATTCNPM/BikeVN">🔗 GitHub</a> | <a href="https://bike-vn.vercel.app">🌐 Live Demo</a>
+    </td>
+  </tr>
 
-**Description:** 
-Developed a comprehensive Customer Support Monorepo platform featuring a RAG-based AI chatbot, real-time human
-handoff, and an admin dashboard.
-• Implemented Retrieval-Augmented Generation (RAG) using Google Gemini and Qdrant vector database to provide
-accurate automated responses based on uploaded knowledge base documents.
-• Built real-time live chat functionality using Socket.io for seamless transitions from AI to human agents, and created a
-lightweight embeddable widget compatible with various web platforms.
-
-**Tech:** 
-React, Tailwind CSS, Shadcn UI, Zustand, Node.js, Socket.io, Google Gemini, Qdrant, Turborepo
-
-🔗**Link:**
-[SupportFlow AI](https://github.com/dak-1306/supportflow-ai)
-**Demo:**
-[Admin](https://supportflow-ai-admin.vercel.app)
-
-### 🔹 BikeVN | Frontend Developer (Team of 3) 
-
-**Description:** 
-Solely developed the complete frontend architecture and admin dashboard of a full-stack motorcycle rental platform
-featuring authentication, vehicle search, booking, reviews, and real-time chat.
-• Built a scalable, responsive, and maintainable user interface following a feature-first architecture with consistent UI
-patterns.
-• Integrated REST APIs using TanStack Query for efficient server-state management, caching, and data fetching while
-managing global client state with Zustand.
-
-**Tech:** 
-- React, TypeScript, TanStack Query, Zustand, React Router, Tailwind CSS, Shadcn UI, Zod, Spring
-Boot.
-
-🔗**Link:**
-[BikeVn](https://github.com/DATTCNPM/BikeVN)
-**Demo:**
-[client](https://bike-vn.vercel.app)
-[Admin](https://bike-vn-admin.vercel.app)
-
-### 🔹 TeamTaskManager
-
-**Description:** 
-Developed a full-stack project and task management platform with JWT-based authentication, project collaboration, and
-real-time task tracking features.
-• Built scalable frontend architecture for efficient global state management, asynchronous data fetching, and robust schema
-validation using Zod.
-• Designed interactive dashboards and data analytics view using Tailwind CSS, Shadcn UI, Framer Motion, and Recharts.
-**Tech:** 
-React, TypeScript, TanStack Query, Zustand, React Hook Form, Zod, Express.js, MongoDB, Recharts
-
-🔗**Link:**
-[Team Task Manager](https://github.com/dak-1306/teamTaskManager)
-
-**Demo:**
-[TeamTaskManager](https://team-task-manager-three.vercel.app)
----
-
-## 🧠 Practices & Mindset
-
-* Clean, clear code
-* Sử dụng AI hỗ trợ tăng hiệu suất
-* Hiểu luồng dữ liệu (props, state)
-* Commit nhỏ, message rõ ràng
-* Ưu tiên học chắc nền tảng
+  <!-- TeamTaskManager -->
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://team-task-manager-three.vercel.app">
+        <img src="https://placehold.co/600x400/1e1e2e/00E5FF?text=TeamTaskManager" alt="TeamTaskManager Demo" width="100%" style="border-radius: 8px;">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>🔹 TeamTaskManager (Personal)</h3>
+      <p><strong>Role:</strong> Full-Stack Developer</p>
+      <p>A project and task management platform with JWT authentication, collaboration features, and real-time tracking.</p>
+      <ul>
+        <li>Built scalable frontend architecture with robust schema validation using <strong>Zod</strong>.</li>
+        <li>Designed interactive dashboards using <strong>Framer Motion</strong> and <strong>Recharts</strong>.</li>
+      </ul>
+      <p><strong>Tech:</strong> React, TypeScript, TanStack Query, Zustand, RHF, Zod, Express, MongoDB, Recharts</p>
+      <a href="https://github.com/dak-1306/teamTaskManager">🔗 GitHub</a> | <a href="https://team-task-manager-three.vercel.app">🌐 Live Demo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-* 📧 Email: **[thd13062005@gmail.com](mailto:thd13062005@gmail.com)**
-* 💼 LinkedIn: *(đang cập nhật)*
-* 🌐 Portfolio: [Portfolio](https://portfolio-chi-six-dis71bhv3s.vercel.app)
+<p align="center">
+  <a href="mailto:thd13062005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-chi-six-dis71bhv3s.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
